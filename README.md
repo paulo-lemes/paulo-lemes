@@ -13,15 +13,21 @@ Olá, eu sou o Paulo!
 
 ## 📚 **Principais linguagens e ferramentas/*Main languages and tools*:** 💻
 
-<div style="display: inline_block"><br/>
+<div style="display:inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img align="center" alt="testing library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <img align="center" alt="daisyui" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img align="center" alt="styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
 
 <br/>
@@ -32,7 +38,7 @@ Olá, eu sou o Paulo!
 
 <div id="header" align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lemes&repo=projeto-best-browser-games\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&description_lines_count=2)](https://github.com/paulo-lemes/projeto-best-browser-games) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lemes&repo=projeto-e-commerce\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/paulo-lemes/projeto-e-commerce) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lemes&repo=projeto-movie-wave-streaming\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&description_lines_count=2)](https://github.com/paulo-lemes/projeto-movie-wave-streaming)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lemes&repo=projeto-best-browser-games\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&description_lines_count=2)](https://github.com/paulo-lemes/projeto-best-browser-games) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lemes&repo=adahack-2024-frontend\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&description_lines_count=2)](https://github.com/paulo-lemes/adahack-2024-frontend)
 
 
 </div>
